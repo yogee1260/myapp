@@ -1,3 +1,2 @@
 echo "welcome jenkins"
 echo "pipeline triggered"
-echo "hi world"
